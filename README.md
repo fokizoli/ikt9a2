@@ -5,3 +5,4 @@ hozzáadok még egy sort
 írom tovább
 ezt már Github-on írtam
 VS code konfliktus
+gh desktop
