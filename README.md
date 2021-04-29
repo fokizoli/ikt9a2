@@ -6,3 +6,4 @@ hozzáadok még egy sort
 ezt már Github-on írtam
 VS code konfliktus
 gh desktop
+loaderio-22765263c1c8656fa93c485d9c02bc3f
